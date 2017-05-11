@@ -1,0 +1,1 @@
+define({'Quick set up':{c:'Set up', cm:'', o:0},'Administration':{c:'Admin', cm:'', o:1},})

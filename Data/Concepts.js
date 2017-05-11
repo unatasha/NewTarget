@@ -1,0 +1,1 @@
+define({'Access token':[2],'Admin':[1],'Assessment':[3],'Assessments':[11,8,5,7],'Authenticate':[2],'ConditionsBlockElementsTables':[25,26,35,31],'Images':[27,44,36,28],'LinksLists':[43,33,29],'Projects':[6],'Reports':[3,3],'Results':[3],'Set up':[11,2,6,10,4,9],'Token':[7],'Workflow':[8],});
